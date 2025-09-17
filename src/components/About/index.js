@@ -32,7 +32,7 @@ const About = () => {
 
                 </h1>
 
-                <p> Hi, I'm Adithya! I am an engineer who hopes to leverage my skills to solve some of the world's most challenging problems.  
+                <p> Hi, I'm Mauricio! I am an engineer who hopes to leverage my skills to solve some of the world's most challenging problems.  
                     My biggest strength is my curiosity for solving interesting problems and learning about new technologies. 
                     I love finding new ways in which technology and science can better the world
                     and hope to be part of the force that helps make that change.
