@@ -32,11 +32,14 @@ const Portfolio = () => {
                                 <div className="content">
                                     <p className='title'> {port.title}</p>
                                     <h4 className="description">{port.description}</h4>
+                                    {port.url && (
                                     <button
-                                        className='btn'
-                                        onClick={() => window.open(port.url)} >
-                                            View
-                                        </button>
+                                        className="btn"
+                                        onClick={() => window.open(port.url)}
+                                    >
+                                        View
+                                    </button>
+                                    )}
 
                                     <button
                                         className='code-btn'
