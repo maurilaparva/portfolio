@@ -24,6 +24,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          CI: false
       - run: cp build/index.html build/404.html  # SPA refresh-safe
       - uses: actions/upload-pages-artifact@v3
         with:
