@@ -40,7 +40,7 @@ const Home = () => {
                 strArray={jobArray}
                 idx = {16 + nameArray.length}/>
                 </h1>
-                <h2> Software Engineering / Machine Learning / Physics </h2>
+                <h2> Software Engineering / Explainable Machine Learning / Visualization </h2>
                 <br/>
                 <a href = "mailto:mauricio.i.villavicencio@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
             </div>
