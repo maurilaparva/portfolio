@@ -8,8 +8,8 @@ import Logo from '../Logo'
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const greetArray = ['H', 'i' , ',' , ' ', 'I', "'", 'm']
-    const nameArray = ['A', 'd','i', 't','h','y','a']
-    const jobArray = ['C','S', ' ', '+', ,' ', 'P','h','y','s','i','c','s', ' ', 'M','a','j','o','r']
+    const nameArray = ['M', 'a','u', 'r','i','c','i','o']
+    const jobArray = ['C','S', ' ', 'M', ,'a ', 'j','o','r',' ','+',' ','X', ' A', 'I',' ','R','e','s','e','a','r','c','h','e','r']
 
 
         useEffect(() => {
@@ -42,7 +42,7 @@ const Home = () => {
                 </h1>
                 <h2> Software Engineering / Machine Learning / Physics </h2>
                 <br/>
-                <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
+                <a href = "mailto:mauricio.i.villavicencio@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
             </div>
 
             {/* <Logo/> */}
