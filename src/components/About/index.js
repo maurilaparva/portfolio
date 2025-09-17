@@ -32,25 +32,20 @@ const About = () => {
 
                 </h1>
 
-                <p> Hi, I'm Mauricio! I am an engineer who hopes to leverage my skills to solve some of the world's most challenging problems.  
-                    My biggest strength is my curiosity for solving interesting problems and learning about new technologies. 
-                    I love finding new ways in which technology and science can better the world
-                    and hope to be part of the force that helps make that change.
-                    If you're working on something cool, I would love to hear about it!
-                    Outside of tech, I spend my free time cooking, gaming, and working out.           
+                <p> Hi, I'm Mauricio! I am an engineer and researcher who hopes to leverage my skills to tackle impactful challenges in visualization, AI, and beyond.  
+                    My biggest strength is my curiosity, learning and finding creative ways to use different technologies. 
+                    I'm passionate about how AI and human-centered systems can work together to better the world,
+                    and I hope to be a part of the force that makes that change.
+                    If you're working on something innovative, I would love to hear about it. (Please email me!)
+                    Outside of tech, I spend my free time working out, traveling, gaming, and spending time with friends and family.        
                 </p>
 
                 <p>
-                    I have experience building distributed software applications and applying machine learning to solve impactful problems. 
-                    Whether it’s drastically improving data latency for Workday’s cloud fleet management service, accelerating warehouse labor count 
-                    recommendations in Wayfair’s supply chain, building Multiple Sclerosis risk assessment models to help Genentech enroll clinical trial subjects,
-                    or training neural networks to generate better starting wavefunctions for electronic structure calculations as a researcher at Northeastern University, 
-                    I've been able to leverage my passion for solving impactful problems to swiftly adapt to these domains and deliver lasting impact.                    
+                    I have experience building scalable machine learning pipelines, designing interactive visualization systems, and applying AI to solve problems in healthcare, science, and the environment. Whether it’s developing explainable NLP systems for high-stakes domains at the Visual Intelligence Lab, building predictive models for ICU admissions and respiratory device data at the Mayo Clinic, creating deep learning pipelines for spatiotemporal environmental analysis at the Vipin Kumar Lab, or engineering evidence-based health information systems like KNOWNET, I’ve been able to adapt quickly to diverse domains and deliver meaningful results.                  
                 </p>
 
                 <p>
-                This summer, I will be joining Meta as a Software Engineering Intern. I will also be joining SpaceX in the fall
-                as a Software Engineering Intern on the Starlink Network Engineering team. 
+            This year, I am continuing my research as a Graduate Research Assistant in the Visual Intelligence Lab, focusing on explainable AI and visualization for biomedical applications. My long-term goal is to pursue a PhD in machine learning with an emphasis on visualization and explainability!
                 </p>
 
 

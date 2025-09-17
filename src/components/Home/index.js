@@ -9,7 +9,7 @@ const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const greetArray = ['H', 'i' , ',' , ' ', 'I', "'", 'm']
     const nameArray = ['M', 'a','u', 'r','i','c','i','o']
-    const jobArray = ['C','S', ' ', 'M', ,'a ', 'j','o','r',' ','+',' ','X', ' A', 'I',' ','R','e','s','e','a','r','c','h','e','r']
+    const jobArray = ['M','.', 'S ', '.', '','C ', 'S',' ','+',' ',, ' A', 'I','/','V','I','S',' ','R','e','s','e','a','r','c','h']
 
 
         useEffect(() => {
@@ -40,7 +40,7 @@ const Home = () => {
                 strArray={jobArray}
                 idx = {16 + nameArray.length}/>
                 </h1>
-                <h2> Software Engineering / Explainable Machine Learning / Visualization </h2>
+                <h2> Software Engineering · Explainable ML · Visualization </h2>
                 <br/>
                 <a href = "mailto:mauricio.i.villavicencio@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
             </div>

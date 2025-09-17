@@ -23,7 +23,7 @@ const Sidebar = () => (
                 <NavLink exact="true" activeclassname="active" className="portfolio-link" to="/work">
                     <FontAwesomeIcon icon={faBoxArchive} color="#4d4d4e" />
                 </NavLink>
-                <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" exact="true" activeclassname="active" className="contact-link" >
+                <a href = "mailto:mauricio.i.villavicencio@gmail.com?subject = Feedback&body = Message" exact="true" activeclassname="active" className="contact-link" >
                     <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
                 </a>
         
@@ -35,14 +35,14 @@ const Sidebar = () => (
                     <a
                     target =  "_blank"
                     rel = "noreferrer"
-                    href= "https://www.linkedin.com/in/adithya-palle-400954217/"
+                    href= "https://www.linkedin.com/in/mvillavicencio/"
                     >
                         <FontAwesomeIcon icon = {faLinkedin} color = '#4d4d43'/>
                     </a>
                 </li>
                 <li>
                     <a
-                        href="https://github.com/4di03"
+                        href="https://github.com/maurilaparva"
                         target="_blank"
                         rel="noreferrer"
                     >
