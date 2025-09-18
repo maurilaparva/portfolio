@@ -14,8 +14,9 @@
             "cover": "/portfolio/KnowNet/knownet.png",
             "title": "KnowNet",
             "description": "Guided Health Information Seeking from LLMs via Knowledge Graph Integration",
-            "url": "https://github.com/maurilaparva/KNOWNET",
-            "code": "https://maurilaparva.github.io/KNOWNET/"
+            "url": "https://maurilaparva.github.io/KNOWNET/",
+            "code": "https://github.com/maurilaparva/KNOWNET"
+            
         },
         {
             "cover": "/portfolio/graphRx/logo3.png",
